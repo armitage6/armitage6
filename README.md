@@ -1,16 +1,49 @@
-### Hi there 👋
+<div align="center">
+<h1 align="center">Hello, I'm Pablo - 👋<a href="https://github.com/armitage6">armitage6</a>👋</h1>
+</div>
+<img src="">
 
-<!--
-**armitage6/armitage6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Full stack developer
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2023 Goals: learn to hack
+
+### Connect with me:
+[<img align="left" alt="linkedin" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />][linkedin]
+[<img align="left" alt="instagram" width="26px" src="https://johnhoward.on.ca/peterborough/wp-content/uploads/sites/12/2021/03/instagram-logo-svg-vector-for-print.svg" style="padding-right:10px;" />][instagram]
+
+<br />
+
+### 🔨 Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" style="padding-right:10px;" />
+<img align="left" alt="SQL Alchemy" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="FLask" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flask/flask-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<img align="left" alt="Bootstrap" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-original-wordmark.svg" style="padding-right:10px;" />
+
+
+<br />
+
+
+### ⚙️ My stats:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=armitage6&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+![armitage6 GitHub stats](https://github-readme-stats.vercel.app/api?username=armitage6&show_icons=true&theme=onedark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FragmentosTemporales)](https://github.com/armitage6/github-readme-stats)
+
+
+
+[linkedin]: https://www.linkedin.com/in/pablo-g%C3%A1lvez-5ab172a1/
+[github]: https://github.com/armitage6
