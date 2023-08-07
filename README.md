@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hello, I'm Pablo - 👋<a href="https://github.com/armitage6">armitage6</a>👋</h1>
 </div>
-<img src="">
+
 
 
 ## About me:
