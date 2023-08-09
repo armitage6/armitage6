@@ -8,7 +8,7 @@
 
 - 💻 Full stack developer
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: learn to IA
+- 🥅 2023 Goals: learn computer security
 - 📧 how to reach me pablutus@gmail.com
 - 🌱 I am currently learning with courses to improve backend and frontend
 ### Connect with me:
