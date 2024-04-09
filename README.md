@@ -6,7 +6,6 @@
 
 ## About me:
 
-- 💻
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: learn computer security
 - 📧 how to reach me pablutus@gmail.com
@@ -42,5 +41,5 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/pablo-g%C3%A1lvez-5ab172a1/
+
 [github]: https://github.com/armitage6
