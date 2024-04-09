@@ -6,7 +6,7 @@
 
 ## About me:
 
-- 💻 Full stack developer
+- 💻
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: learn computer security
 - 📧 how to reach me pablutus@gmail.com
